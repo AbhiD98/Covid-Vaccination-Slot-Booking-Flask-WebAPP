@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Flask-based web application manages COVID vaccination centers and user bookings. It provides functionalities for both users and admins to interact with vaccination centers, book slots, and manage center details.
+(Please extract the ".zip" file for accessing source code) This Flask-based web application manages COVID vaccination centers and user bookings. It provides functionalities for both users and admins to interact with vaccination centers, book slots, and manage center details.
 
 ## Features
 
