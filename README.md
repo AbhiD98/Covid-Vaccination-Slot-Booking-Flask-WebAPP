@@ -42,6 +42,9 @@
 - Open `http://localhost:5000` in your web browser.
 - Use provided admin credentials to access admin functionalities.
 
+## DB Schema Snapshot
+![DB Schema Snapshot](https://github.com/AbhiD98/Covid-Vaccination-Slot-Booking-Flask-WebAPP/blob/main/DB%20Schema%20Snapshot%20.png)
+
 ## Usage
 
 - **User Perspective:**
